@@ -1,3 +1,4 @@
+// my first go hello world
 package main
 
 import "fmt"
